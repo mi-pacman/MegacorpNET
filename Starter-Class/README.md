@@ -1,5 +1,9 @@
-# Choose your class
+# Getting started 
 
-Here is where you can choose your class for your character. You can choose to start specializing in one technology and then use that technologys skilltree to develop and hone your skills. 
+These scripts will set up your dev environment
 
-There's also an all-in-one version to get you a developer-ready environment with all the technologies installed. 
+
+For Ubuntu Users:
+execute "sudo sh all-in-one.sh"
+
+For Windows Users:
