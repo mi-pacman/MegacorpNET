@@ -91,10 +91,8 @@ Vagrant.configure("2") do |config|
     echo "###Finished Stage 3###"
     echo "######################"
     echo " "
-    echo "###############################################"
-    echo "###You can now install programs through snap###"
-    echo "###############################################################"
-    echo "###Install Terraform using "snap install terraform --classic###"
-    echo "###############################################################"
+    echo "##############################################################################"
+    echo "###You can now install programs through snap using 'snap install <PROGRAM>'###"
+    echo "##############################################################################"
   SHELL
 end
