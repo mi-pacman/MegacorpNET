@@ -12,6 +12,6 @@
 |________|/     \|________|
 
 ```
-All things HashiCorp!
+All things DevOps!
 
-Let's make this thing meritocratic.
+An ephemeral open-source system built on meritocratic principles.
